@@ -1,0 +1,12 @@
+{
+  "name": "rev.ex",
+  "version": "1.0.0",
+  "description": "Use reveal.js in your Elixir",
+  "main": "resources/app.js",
+  "repository": "https://github.com/veelenga/rev.ex",
+  "author": "Vitalii Elenhaupt <velenhaupt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "reveal.js": "^3.6.0"
+  }
+}
